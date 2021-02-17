@@ -15,11 +15,13 @@ I decided to focus on the deaths themselves, taking a fuzzier, more humanistic a
 
 The resulting visualization, shown below, is still a map, but it works differently than the original. It is interpretive rather than persuasive. While the death symbols in the redesign are proportional -- larger circles indicate addresses with higher death counts -- they blur and overlap so that a viewer would not be able to quantify the deaths, even if a map legend were provided. That visual clutter of the new basemap makes the image loss more noticeable in the redesign, while the lightness of Snow's streets and blocks focus the viewer's attention to the deaths and pumps there.
 
-![img](img/draft.png)
+![img](img/draft2.png)
 
 
 
 ## References
+Drucker, J. (2011). Humanities approaches to graphical display. _Digital Humanities Quarterly_, 5(1), 1-21.
+
 Esri, Inc. (2020). ArcGIS Pro (Version 2.7). https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview.
 
 Esri, Inc. (2020). Cholera cases [Data Set]. Retrieve dfrom https://www.arcgis.com/home/item.html?id=f39a169103da4149ae577ccceec9d125.
