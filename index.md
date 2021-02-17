@@ -27,9 +27,9 @@ The resulting visualization, shown below, is still a map, but it works different
 ## References
 Drucker, J. (2011). Humanities approaches to graphical display. _Digital Humanities Quarterly_, 5(1), 1-21.
 
-Esri, Inc. (2020). ArcGIS Pro (Version 2.7). https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview.
+ESRI, Inc. (2020). ArcGIS Pro (Version 2.7). https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview.
 
-Esri, Inc. (2020). Cholera cases [Data Set]. Retrieved dfrom https://www.arcgis.com/home/item.html?id=f39a169103da4149ae577ccceec9d125.
+ESRI, Inc. (2020). Cholera cases [Data Set]. Retrieved from https://www.arcgis.com/home/item.html?id=f39a169103da4149ae577ccceec9d125.
 
 Fraser, D. (1855). Report on the outbreak of cholera in the sub-districts of Berwick Street, Golden Square, and St. Anne's. London: George E. Eyre and William Spottiswood. Retrieved from https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101196933-bk.
 
