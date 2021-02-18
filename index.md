@@ -28,16 +28,16 @@ The resulting "final" visualization, shown below, is still a map, but it works d
 ## References
 Drucker, J. (2011). Humanities approaches to graphical display. _Digital Humanities Quarterly_, 5(1), 1-21.
 
-ESRI, Inc. (2020). ArcGIS Pro (Version 2.7). https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview.
+ESRI, Inc. (2020). ArcGIS Pro (Version 2.7). [https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview).
 
-ESRI, Inc. (2020). Cholera cases [Data Set]. Retrieved from https://www.arcgis.com/home/item.html?id=f39a169103da4149ae577ccceec9d125.
+ESRI, Inc. (2020). Cholera cases [Data Set]. Retrieved from [https://www.arcgis.com/home/item.html?id=f39a169103da4149ae577ccceec9d125](https://www.arcgis.com/home/item.html?id=f39a169103da4149ae577ccceec9d125).
 
-Fraser, D. (1855). Report on the outbreak of cholera in the sub-districts of Berwick Street, Golden Square, and St. Anne's. London: George E. Eyre and William Spottiswood. Retrieved from https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101196933-bk.
+Fraser, D. (1855). Report on the outbreak of cholera in the sub-districts of Berwick Street, Golden Square, and St. Anne's. London: George E. Eyre and William Spottiswood. Retrieved from [https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101196933-bk](https://collections.nlm.nih.gov/catalog/nlm:nlmuid-101196933-bk).
 
-Koch, T., & Denike, K. (2010). Essential, Illustrative, or… Just Propaganda? Rethinking John Snow's Broad Street Map. Cartographica: The International Journal for Geographic Information and Geovisualization, 45(1), 19-31. Retrieved from http://www.ph.ucla.edu/epi/snow/catographica45(1)_19_31_2010.pdf.
+Koch, T., & Denike, K. (2010). Essential, Illustrative, or… Just Propaganda? Rethinking John Snow's Broad Street Map. Cartographica: The International Journal for Geographic Information and Geovisualization, 45(1), 19-31. Retrieved from [http://www.ph.ucla.edu/epi/snow/catographica45(1)_19_31_2010.pdf](http://www.ph.ucla.edu/epi/snow/catographica45(1)_19_31_2010.pdf).
 
-Lowry, W. (1851). Map of London and its vicinity [map]. McMaster University Digital Archive. Retrieved from https://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A81429
+Lowry, W. (1851). Map of London and its vicinity [map]. McMaster University Digital Archive. Retrieved from [https://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A81429](https://digitalarchive.mcmaster.ca/islandora/object/macrepo%3A81429).
 
-Snow, J. (1855). _On the mode of communication of cholera_. London: Churchill. Retrieved from https://play.google.com/books/reader?id=-N0_AAAAcAAJ&hl=en&pg=GBS.PA1.
+Snow, J. (1855). _On the mode of communication of cholera_. London: Churchill. Retrieved from [https://play.google.com/books/reader?id=-N0_AAAAcAAJ&hl=en&pg=GBS.PA1](https://play.google.com/books/reader?id=-N0_AAAAcAAJ&hl=en&pg=GBS.PA1).
 
-Snow, J. (1855). _Report on the Cholera Outbreak in the Parish of St. James, Westminster during the Autumn of 1854._ London: Churchill. Retrieved from http://resource.nlm.nih.gov/34721190R 
+Snow, J. (1855). _Report on the Cholera Outbreak in the Parish of St. James, Westminster during the Autumn of 1854._ London: Churchill. Retrieved from [http://resource.nlm.nih.gov/34721190R](http://resource.nlm.nih.gov/34721190R). 
