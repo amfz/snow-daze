@@ -1,11 +1,10 @@
-# 
-## Revisiting the 1854 Cholera Map
+# Revisiting the 1854 Cholera Map
 
-### Background
+## Background
 ![John Snow's Cholera Map](img/snow_cholera_map.jpg)
 The image above does not include a title or legend, but for many in epidemiology, geography, and data visualization it is instantly recognizable as John Snow's map of the 1854 cholera outbreak in Soho, London. The map, designed by Snow and lithographer C.E. Cheffins, appeared in the second edition of Snow's  _On the mode of communication of cholera_ as one of a suite of tables and figures supporting his argument that cholera was transmitted through water and not, as competing models argued, through miasmatic air. Today, it circulates as a foundational work in visualization, largely removed from its original context. This post describes a redesign exercise that plays with context to try to convey a sense of missingness.
 
-### Redesign
+## Redesign
 
 Data to recreate Snow's map is freely available online. As Drucker (2011) writes, all data are capta, and what is captured in online, machine-readable datasets is strikingly sparse, reflecting what could be digitized from the map itself. Death data contains coordinates of where the victim lived, and occasionally, their actual street address (e.g., [this cholera deaths dataset published by ESRI](https://www.arcgis.com/home/item.html?id=f39a169103da4149ae577ccceec9d125)); all of the sources I encountered fell short of the 596 deaths in Snow's study (Koch & Denike, 2010). In contrast, Snow's reports are rich with details of the neighborhood around Broad Street and its inhabitants; the dead in the texts of his monographs have names and habits (Snow, 1855). Meanwhile, Snow's table of cholera attacks and deaths by date has also been digitized, but there isn't enough information there to link individual death dates and residences. In other words, available data makes it straightforward to show _when_ people died or _where_ they lived, but not both together. Pump locations and names from Snow's map are also easy to come by.
 
@@ -23,11 +22,10 @@ I decided to focus on the deaths themselves, taking a fuzzier, more humanistic a
 
 The resulting "final" visualization, shown below, is still a map, but it works differently than the original. It does not try to persuade because it does not need to -- cholera is now known to be a water-borne disease, and the Broad Street pump is known as the source of the 1854 outbreak thanks to Snow's original work. Instead, it operates interpretively. While the death symbols in the redesign are proportional -- larger circles indicate addresses with higher death counts -- they blur and overlap so that a viewer would not be able to quantify the deaths, even if a map legend were provided. (Ironically, they look miasmatic.) Snow gives all of the water pumps in his map equal visual weight, affording viewers independence to parse and evaluate his argument. This redesign, in contrast, retains only the Broad Street pump to emphasize its now-settled place as the epicenter of the outbreak. Taking a cue from the original, I chose not to give the map a descriptive title or include a legend, though I labeled the Broad Street pump. Should this map, like the original, ever appear removed from its accompanying text, the pump label and the credit to Snow to the lower right would be the only indication of the image's meaning.
 
-![img](img/last.png)  
+![img](img/last.png)
 
 
-
-### References
+## References
 Drucker, J. (2011). Humanities approaches to graphical display. _Digital Humanities Quarterly_, 5(1), 1-21.
 
 ESRI, Inc. (2020). ArcGIS Pro (Version 2.7). https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview.
